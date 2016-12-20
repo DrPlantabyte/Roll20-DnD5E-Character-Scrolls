@@ -9,4 +9,4 @@ A custom Roll20.net character sheet for **Dungeons & Dragons** 5th Edition
 - Drag-and-drop compedium monster entries into the pets section to fill-in the stats for pets/familiars/animal companions
 
 ## License
-This work is licensed under a Creative Commons Attribution 4.0 International License. You may use, redistribute, and edit freely so long as you credit the original work to Cyanobacterium aka DrCyano aka Chris Hall.
+This work is licensed the MIT License. You may basically do whatever you want with this work, but no warrenties nor guarantees are given.
